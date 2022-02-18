@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Full Stack Web Development, and Database Management.
 - 🌱 I’m currently learning Machine Learning and Django Develoment
 - 💞️ I’m looking to collaborate on Data Science and Business Development projects
-- 📫 You can reach me via my email: ayosamobitade @gmail.com
+- 📫 You can reach me via my email: ayosamobitade@gmail. com
 - I'm an avid reader.
 - I'm on Linkedin at https://www.linkedin.com/in/ayobami-samuel-obitade/
 
