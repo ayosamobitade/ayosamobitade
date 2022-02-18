@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ayosamobitade Ayobami Samuel Obitade
+- 👋 Hi, I’m Ayobami Samuel Obitade
 - 👀 I’m interested in Data Science, Full Stack Web Development, and Database Management.
 - 🌱 I’m currently learning Machine Learning and Django Develoment
 - 💞️ I’m looking to collaborate on Data Science and Business Development projects
-- 📫 You can read me with my email @: ayosamobitade @gmail.com
+- 📫 You can reach me with my email @: ayosamobitade @gmail.com
 - I'm an avid reader.
 - I'm on Linkedin at https://www.linkedin.com/in/ayobami-samuel-obitade/
 
