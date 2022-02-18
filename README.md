@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayobami Samuel Obitade
-- 👀 I’m interested in Data Science, Full Stack Web Development, and Database Management.
+- 👀 I’m interested in Data Science, Full Stack Web Development, and Database Development.
 - 🌱 I’m currently learning Machine Learning and Django Develoment
 - 💞️ I’m looking to collaborate on Data Science and Business Development projects
 - 📫 You can reach me via my email: ayosamobitade@gmail. com
