@@ -1,7 +1,5 @@
 # - 👋 Hi, I’m Ayobami Samuel Obitade B.Tech. 
-- 👀 I’m interested in Data Science, Django Development, and Database Development.
-
-# I'm well experienced with:
+# - 👀 I'm well experienced with:
 
 # Data Science and Machine learning:
  - Building of Recommender Systems
