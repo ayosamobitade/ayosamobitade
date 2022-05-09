@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayobami Samuel Obitade B.Tech., a health and business enthusiast with passion to create values through businesses. 
+# - 👋 Hi, I’m Ayobami Samuel Obitade B.Tech. 
 - 👀 I’m interested in Data Science, Django Development, and Database Development.
 
 # I'm well experienced with:
