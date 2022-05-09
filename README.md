@@ -57,11 +57,7 @@
  - Malaria drug research
  - Breast Cancer Immunohistochemistry
  - Blood Grouping
-
-# He is a volunteer:
- - I recently concluded the National Youth Service NYSC.
- - 
-
+-
 - 🌱 I’m currently learning Machine Learning and Django Develoment
 - 💞️ I’m looking to collaborate on Data Science and Business Development projects
 - 📫 You can reach me via my email: ayosamobitade@gmail. com
