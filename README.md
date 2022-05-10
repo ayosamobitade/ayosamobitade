@@ -23,7 +23,7 @@
  - Data wrangling
  - Machine Learning implementation in R
 
-# Big data, Big Data Platforms and frameworks, and Cloud Computing:
+## Big data, Big Data Platforms and frameworks, and Cloud Computing:
  - Databricks
  - Hadoop and Hadoop File System
  - Pyspark
