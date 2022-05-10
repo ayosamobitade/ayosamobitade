@@ -32,21 +32,21 @@
  - Azure
  - Lambda
 
-# Business Analytic Experience and Visualization with:
+## Business Analytic Experience and Visualization with:
  - Microsoft PowerBI
  - Business Analytic with Excel
  - Tableau
 
-# Database Development and management with:
+## Database Development and management with:
  - MYSQL
  - PostgreSQL
 
-# Team Playing:
+## Team Playing:
  - Lead a team to win the Middle East and Africa Google plus Social Media Marketing 2015 Award of the 
  - Google Online Marketing Challenge GOMC 2015. 
  - Lead a Team to become the Google Adword Semi-Finalist of the GOMC 2015
 
-# Medical Research and techniques:
+## Medical Research and techniques:
  - Electrocardiography
  - DNA electrophoresis & Polymerase Chain Reaction (PCR) Tecniques
  - Malarial Microscopy
