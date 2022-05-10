@@ -1,14 +1,14 @@
-## - 👋 Hi, I’m Ayobami Samuel Obitade B.Tech. 
-## - 👀 I'm well experienced with:
+### - 👋 Hi, I’m Ayobami Samuel Obitade B.Tech. 
+### - 👀 I'm well experienced with:
 
-## Data Science and Machine learning:
+### Data Science and Machine learning:
  - Building of Recommender Systems
  - Natural Language Processing NLP
  - Deep learning with Tensorflow
  - Model deployment
  - Market Basket Optimization
 
-## Django Development:
+### Django Development:
  - Django implementation with Celery and Redis
  - Django  forms and security
  - Django - RestAPI creation and deployment
