@@ -12,7 +12,7 @@
  - Django implementation with Celery and Redis
  - Django  forms and security
  - Django - RestAPI creation and deployment
- - Django deployment deployment (bases of git, documentation, database and using Heroku)
+ - Django deployment deployment (bases of git, documentation, databases and Heroku)
  - Django Database and caching
  - Authorizations and Authentication in Django
  - Utilization of third Party APIs in Django
