@@ -42,8 +42,7 @@
  - PostgreSQL
 
 ### Team Playing:
- - Lead a team to win the Middle East and Africa Google plus Social Media Marketing 2015 Award of the 
- - Google Online Marketing Challenge GOMC 2015. 
+ - Lead a team to win the Middle East and Africa Google plus Social Media Marketing 2015 Award of the Google Online Marketing Challenge GOMC 2015. 
  - Lead a Team to become the Google Adword Semi-Finalist of the GOMC 2015
 
 ### Medical Research and techniques:
