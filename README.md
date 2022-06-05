@@ -55,7 +55,7 @@
  - Malaria drug research
  - Breast Cancer Immunohistochemistry
  - Blood Grouping
--
+
 - 🌱
 - 💞️ I’m looking to collaborate on Data Science and Business Development projects
 - 📫 You can reach me via my email: ayosamobitade@gmail. com
