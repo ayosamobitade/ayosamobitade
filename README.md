@@ -35,7 +35,7 @@
 ### Business Analytic Experience and Visualization with:
  - Microsoft PowerBI
  - Business Analytic with Excel
- - Tableau
+ - Tableau https://public.tableau.com/app/profile/ayobami.samuel.obitade
 
 ### Database Development and management with:
  - MYSQL
